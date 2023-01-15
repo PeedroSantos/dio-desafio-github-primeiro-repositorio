@@ -1,0 +1,3 @@
+Setar configurações git
+git config --global user.email "pedro.evang.santos@gmail.com"
+git config --global user.name "Pedrok"
